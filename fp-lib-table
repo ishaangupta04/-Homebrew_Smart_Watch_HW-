@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ESP32_Solo")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/ESP32_Solo.pretty")(options "")(descr ""))
+  (lib (name "SOIC127P798X216-8N")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/SOIC127P798X216-8N.pretty")(options "")(descr ""))
+)
