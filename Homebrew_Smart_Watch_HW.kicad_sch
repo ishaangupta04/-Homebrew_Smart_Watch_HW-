@@ -8298,7 +8298,7 @@
 		)
 		(uuid "1b929a99-daad-401f-8497-4f7add431463")
 	)
-	(text_box "3.3V LDO 80mA\n"
+	(text_box "3.3V LDO 700mA\n\n"
 		(exclude_from_sim no)
 		(at 262.255 59.69 0)
 		(size 31.75 5.08)
